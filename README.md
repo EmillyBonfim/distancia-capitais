@@ -6,5 +6,7 @@ Feita em aula FDW!✨
 Esse tabela foi um trabalho escolar em grupo👩‍💻🤝, onde foi separado algumas capitais brasileiras para que criassemos uma tabela que poderia nos mostrar a distância entre esse locais!
 
 ## Colaboradores de grupo
-@Saralsilva
+Sarah Lorena
+Julia Alves
+Luan Abreu
 
