@@ -25,7 +25,7 @@ Esse tabela foi um trabalho escolar em grupo👩‍💻🤝, onde foi separado a
   As distâncias que contém (°°Distância°°), está mostrando a distância se for com balsa, pois ainda não existe uma estrada de chão para desterminada capital.
 
   ## Interfase 👩‍💻
-   xnjanj
+   
   
 
   
