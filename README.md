@@ -10,3 +10,23 @@ Esse tabela foi um trabalho escolar em grupo👩‍💻🤝, onde foi separado a
 * Julia Alves
 * Luan Abreu
 
+## Funcionalidades do projeto 🪄
+  Esse projeto foi criado para auxiliar a indicar qual a distância em KM entre tais capitais dp Brasil!
+  
+## Capitais utilizadas 🗺️📌
+  * Curitiba
+  * Florianópolis
+  * Fortaleza
+  * Goiânia
+  * João Pessoa
+  * Macapá
+
+  ## Legenda 🔭
+  As distâncias que contém (°°Distância°°), está mostrando a distância se for com balsa, pois ainda não existe uma estrada de chão para desterminada capital.
+
+  ## Interfase 👩‍💻
+  
+
+  
+  
+
